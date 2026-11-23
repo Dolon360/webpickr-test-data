@@ -1,0 +1,8 @@
+plugin,left_behind_after_deactivate_and_delete
+WP Rocket,WP_CACHE set to false in wp-config.php
+WP Super Cache,advanced-cache.php and its WP_CACHE line
+WP Fastest Cache,tmpWpfc and wpfc-minified folders
+FlyingPress,wp-content/cache/flying-press folder
+Super Page Cache,"wp-content/wp-cloudflare-super-page-cache folder (its Cloudflare rule was removed on disconnect)"
+xSpeed Cache,"cache/xspeed, cache/xspeed-static and uploads/xspeed folders, plus its Nginx snippet in the server config until you remove it"
+W3 Total Cache,"Clean in my test; remove the Nginx include line yourself if you added one in your panel"
