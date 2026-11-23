@@ -1,0 +1,4 @@
+session,dates,baseline_ttfb_median_s,baseline_pagespeed_mobile,baseline_requests,baseline_page_weight_kb,ttfb_method,plugins
+A,2026-11-08 to 2026-11-09,0.759,97,33,413,"5 requests; first dropped as warm-up; median of the other 4","WP Super Cache 3.1.x; Autoptimize (on top of WP Super Cache); WP Fastest Cache 1.5.5; W3 Total Cache; WP Rocket 3.24"
+B2,2026-11-10 to 2026-11-11,0.615,95,33,413,"5 requests; median of all 5","FlyingPress 5.6.7; NitroPack 1.20.4 (free plan); xSpeed Cache 1.4.7 + Pro 1.3.8"
+B1,2026-11-11 to 2026-11-12,0.684,96,33,413,"5 requests; median of all 5","Super Page Cache 5.3.10; Jetpack Boost 4.8.2; WP-Optimize; W3 Total Cache 2.11.0 (page-weight check; the screenshot was of the homepage, so not measured)"
