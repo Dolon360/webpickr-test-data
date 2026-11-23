@@ -1,0 +1,11 @@
+plugin,plugin_version,session,ttfb_median_s,ttfb_note,pagespeed_mobile,pagespeed_note,requests,page_weight_kb,page_weight_note,price_1_site_nov_2026,review
+FlyingPress,5.6.7,B2,0.250,"0.146 s when served from the Cloudflare edge",100,,16,119,,$59/yr,https://webpickr.com/flyingpress-review/
+WP Rocket,3.24,A,0.234,,100,,28,148,,$60/yr,https://webpickr.com/wp-rocket-review/
+xSpeed Cache + Pro,"1.4.7 (Pro 1.3.8)",B2,0.23,"approximate; with Redis object cache",100,,17,154,"Critical CSS state","Free; Pro $58/yr ($29 launch)",https://webpickr.com/xspeed-cache-review/
+WP Super Cache + Autoptimize,"3.1.x + Autoptimize",A,0.24,,100,,27,140,,Free,https://webpickr.com/best-wordpress-optimization-plugins/
+W3 Total Cache,not stated,A,0.230,,98,,16,137,"from a later check with lazy load on (TTFB 0.379 s in that check)","Free; Pro $99/yr",https://webpickr.com/w3-total-cache-settings/
+Jetpack Boost,4.8.2,B1,0.252,,98,"1 run",23,418,,"Free; paid $239.40/yr",https://webpickr.com/jetpack-boost-review/
+WP Fastest Cache,1.5.5,A,0.265,,96,,32,405,,"Free; Premium $49 one-time",
+Super Page Cache,5.3.10,B1,0.289,"disk cache; 0.136 s when served from the Cloudflare edge",96,"2 runs: 96 and 98",33,412,,"Free; Pro $39/yr",https://webpickr.com/super-page-cache-review/
+WP-Optimize,,B1,0.377,,99,"1 run",33,404,,"Free; Premium $49/yr (listed as up to 2 sites)",https://webpickr.com/wp-optimize-review/
+NitroPack (free plan),1.20.4,B2,0.386,,89,"1 run",36,174,,"Free; paid from $84/yr",https://webpickr.com/nitropack-review/
