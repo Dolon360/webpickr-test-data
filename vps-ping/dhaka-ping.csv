@@ -1,0 +1,11 @@
+provider,location,avg_ping_ms,pings,packet_loss,date,server,source
+Vultr,Mumbai,39,10,0%,2026-11-14,"1 GB Regular Performance, Ubuntu 22.04, empty",https://webpickr.com/vps-bangladesh/
+Vultr,Singapore,47,10,0%,2026-11-14,"1 GB Regular Performance, Ubuntu 22.04, empty",https://webpickr.com/vps-bangladesh/
+Vultr,Delhi NCR,66,10,0%,2026-11-14,"1 GB Regular Performance, Ubuntu 22.04, empty",https://webpickr.com/vps-bangladesh/
+Vultr,Bangalore,95,10,0%,2026-11-14,"1 GB Regular Performance, Ubuntu 22.04, empty",https://webpickr.com/vps-bangladesh/
+Vultr,Frankfurt,165,10,0%,2026-11-14,"1 GB Regular Performance, Ubuntu 22.04, empty",https://webpickr.com/vps-bangladesh/
+Vultr,New York (New Jersey),250,10,0%,2026-11-14,"1 GB Regular Performance, Ubuntu 22.04, empty",https://webpickr.com/vps-bangladesh/
+Hetzner,Singapore,48,,0%,2026-11-05 to 2026-11-06,CPX02,https://webpickr.com/hetzner-review/
+DigitalOcean,Singapore,48,10,0%,2026-11-08,1 GB Droplet,https://webpickr.com/digitalocean-review/
+DigitalOcean,Bangalore,72,,,2026-11-08,"ping only, not benchmarked",https://webpickr.com/digitalocean-review/
+YottaSrc,Hong Kong,77,10,0%,2026-11-04,8 vCPU / 16 GB,https://webpickr.com/yottasrc-review/
